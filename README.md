@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dheerj18
+- 👋 Hi, I’m dheeraj
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning database and backend
 - 💞️ I’m looking to collaborate on projects and designing assignments
